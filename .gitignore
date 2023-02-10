@@ -2,3 +2,8 @@ node_modules/
 frontend/node_modules/
 frontend/src/examples/
 frontend/src/components/
+
+# push an existing repository from the command line
+# git remote add origin https://github.com/rlahfld54/react-crud.git
+# git branch -M master
+# git push -u origin master
